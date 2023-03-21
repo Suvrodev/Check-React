@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.Container{
+  background-color: aquamarine;
+  padding: 5px 12px;
+  border-radius: 7px;
+  margin: 20px;
+  color: red;
+  border: 2px solid purple;
+}
+.Container>div{
+ margin: 10px auto;
+}
+
+.margin{
+  margin: 0 auto;
+  font-weight: 700;
+}
+.Title{
+  background-color: tomato;
+  color: white;
+  font-weight: 700;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 10px;
+}
